@@ -31,10 +31,4 @@ Example file B:
 
 Output:
 
-<contacts>
-    <contact>
-    <name></name>
-    <email></email>
-    <phone<span style="color: green;">Number</span>></phone<span style="color: green;">Number</span>>
-    </contact>
-</contacts>
+![Example Image](https://imgur.com/a/A8T7Wky)
