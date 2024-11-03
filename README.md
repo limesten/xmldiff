@@ -31,7 +31,6 @@ Example file B:
 
 Output:
 
-```
 <contacts>
     <contact>
     <name></name>
@@ -39,4 +38,3 @@ Output:
     <phone<span style="color: green;">Number</span>></phone<span style="color: green;">Number</span>>
     </contact>
 </contacts>
-```
