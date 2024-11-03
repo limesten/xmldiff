@@ -1,7 +1,7 @@
 Compares the canonical XML structure between two files but ignores the text/data between the tags.
 
 Example usage:
-go run main.go -file_a="foo.xml" -file_b="bar.xml"
+`go run main.go -file_a="foo.xml" -file_b="bar.xml"`
 
 Example file A:
 
