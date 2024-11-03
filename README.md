@@ -31,4 +31,4 @@ Example file B:
 
 Output:
 
-![Example Image](https://imgur.com/a/A8T7Wky)
+![Example Image](https://i.imgur.com/o0LUNDS.png)
